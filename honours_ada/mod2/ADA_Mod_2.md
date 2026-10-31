@@ -252,6 +252,8 @@ Define a data stream → explain infinite + non-stationary → draw the processi
 
 #### Bloom Filter (k Hash Functions)
 
+> **Common confusion clarified**: There is still **one single bit array B** of size n. All k hash functions map into the *same* B. Each function sets a different position in B during insertion, and checks a different position during query. You do NOT use k separate arrays (though that design is theoretically equivalent — same false positive probability — it is less used in practice).
+
 Use k independent hash functions h₁, h₂, ..., h_k on the **same** bit array B.
 
 **Initialization**: For each s ∈ S and each i = 1..k: set B[hᵢ(s)] = 1.
