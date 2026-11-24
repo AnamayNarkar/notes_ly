@@ -1,0 +1,15 @@
+I've am in the dir/ uploaded the study material and the Previous year questions for the module are one dir above the current dir / uploaded along w the notes
+the syllabus for the module is as follows :
+"""
+
+"""
+go through all the study material and the previous year questions analyzing all of them and carrying them throughout the chat conversation summary without fail marking it as utmost important for the chat take each topic in the module and think about it thoroughly. Your task is to help me prepare
+explain everything in this chat itself with a <subject>_Mod_<modnumber>.md . no separete artifacts. just this one markdown file with the combined delivarables.
+read images from the files directly with ur multimodal capabilites do not use OCR scripts
+your deliverables are as follows once you have gone through all the uploaded stuff and thought long and hard about it
+1. Topic map - Map all the topic in a tree like structure - which shows which topics are there in the syllabus and which topic comes under what topic - i output as codeblock
+2. Topic wise asked questions types  -  going thorugh the material and the pys should give u a thorugh idea of what type of questions are asked for each topic - theory, numerical, derivations, diagrams etc etc - more if any . your task is to make a table of the topics and show which types of questions are asked per topic and add a sepacial indicatior to whichever topic - asked type question has appeared in the pyq
+3. Topic by topic detailed breakdown of the explanation of the topic. in easy to understand language and how to explain in exam is asked as a short note,a drawing / diagram or smth else. followed by the solving of numericals or other question types of the topic - if any
+4. PYQ- soltions solving of all the scanned pyqs. - solve all the pyqs and group them by topic and solve them exactly how theyre supposed to be solved in the exam. make sure u only take the pyqs related to the current module being discussed
+If smth is mentioned in syllabus but notes or pyq dosent contain it ure free to make notes/quyestions that u think can come by ur self in thsoe sections but mark it so that we know it didnt come from notes/official pyq
+no emojis unless necessary
